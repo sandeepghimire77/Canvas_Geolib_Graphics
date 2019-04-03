@@ -2,7 +2,8 @@
   border: 1px solid black;
   /* center align */
   display: block;
-  width: 600px;
-  height: 300px;
+  width: 1400px;
+  height: 600px;
   margin: 0 auto;
+  background-color: black;
 }
